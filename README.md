@@ -12,4 +12,4 @@ This repository contains a Kaptive-compatible cps loci database for typing *Kleb
 
 Please cite the following work when using this database:
 
-Yu Feng, Yongqiang Yang, Ya Hu, Yuling Xiao, Yi Xie, Li Wei, Hongxia Wen, Linwan Zhang, Alan McNally, Zhiyong Zong. 2024. Population genomics uncovers the global distribution, antimicrobial resistance genes, and key virulence determinants of the opportunistic pathogen *Klebsiella aerogenes* (unpublished). Available at: [https://github.com/fengyuchengdu/KAC_cps_reference](https://github.com/fengyuchengdu/KAC_cps_reference)
+Feng, Y., Yang, Y., Hu, Y., Xiao, Y., Xie, Y., Wei, L., Wen, H., Zhang, L., McNally, A., and Zong, Z. (2024). Population genomics uncovers global distribution, antimicrobial resistance, and virulence genes of the opportunistic pathogen *Klebsiella aerogenes*. *Cell Reports, 43*. https://doi.org/10.1016/j.celrep.2024.114602
