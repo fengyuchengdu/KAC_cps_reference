@@ -1,0 +1,17 @@
+name = "Klebsiella_aerogenes_K"
+keyword = "kaer_k"
+genbank = "KAC_k_locus_primary_reference.gbk"
+organism = "Klebsiella aerogenes"
+taxon = 548
+antigen = "Capsular polysaccharide"
+pathway = "Wzx/Wzy-dependent"
+prefix = "K"
+version = "1.0.1"
+id_threshold = 82.5
+doi = [ "10.1016/j.celrep.2024.114602 ",]
+owner = "fengyuchengdu"
+repo = "KAC_cps_reference"
+branch = "main"
+
+[contact]
+"Yu Feng" = "https://orcid.org/0000-0002-5654-4256"

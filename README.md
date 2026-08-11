@@ -1,4 +1,10 @@
+<img align="right" src="https://github.com/klebgenomics/Kaptive/blob/master/docs/assets/logo.png?raw=true" alt="Kaptive" width="200">
+
 # *Klebsiella aerogenes* Complex Capsular Polysaccharide Synthesis Loci References
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](https://kaptive-database-validator.streamlit.app/)
+[![Release Database](https://github.com/fengyuchengdu/KAC_cps_reference/actions/workflows/release.yml/badge.svg)](https://github.com/fengyuchengdu/KAC_cps_reference/actions/workflows/release.yml)
+[![DOI:10.1016/j.celrep.2024.114602](https://zenodo.org/badge/DOI/10.1016/j.celrep.2024.114602.svg)](https://doi.org/10.1016/j.celrep.2024.114602)
 
 This repository contains a Kaptive-compatible cps loci database for typing *Klebsiella aerogenes* complex (KAC) species.
 
